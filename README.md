@@ -1,6 +1,9 @@
 Anbernic Unisoc T820 Bootloader Unlock Guide - TheGammaSqueeze - https://github.com/TheGammaSqueeze
 ---------------------------------------------------------------------------------------------------
 
+The bootloader unlock is required before flashing any custom firmware or custom fixes.
+You may be interested in this analog stick sensitvity fix after unlocking your bootloader: https://github.com/TheGammaSqueeze/Bootloader_Unlock_Anbernic_T820/releases/tag/analog_fix
+
 Warning:
 - Proceed at your own risk. Unlocking the bootloader will void your warranty and can potentially damage your device. I am not responsible for any damage to your device or any data loss incurred.
 - Only supported on Windows systems.
