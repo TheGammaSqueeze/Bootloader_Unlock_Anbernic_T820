@@ -24,7 +24,7 @@ Connect Device:
 - Within 30 seconds of running the script, hold down the HOME/BACK button on the turned-off unit.
 - While holding the button, plug in the USB cable to your device.
 - Continue Unlock Process: The unlock script will now proceed. You can release any buttons once the script is running.
-- Wipe data: Your unit will now reboot. It will likely show the batter charging screen, in this case just turn on the device. Upon the second reboot you will be asked to wipe your device. Use the volume buttons to navigate to the wipe option, use the power button to confirm this option. Your unlock is now complete.
+- Wipe data: Your unit will now reboot. It will likely show the battery charging screen, in this case just turn on the device. Upon the second reboot you will be asked to wipe your device. Use the volume buttons to navigate to the wipe option, use the power button to confirm this option. Your unlock is now complete.
 
 
 Credits:
