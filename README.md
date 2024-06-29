@@ -26,6 +26,17 @@ Connect Device:
 - Continue Unlock Process: The unlock script will now proceed. You can release any buttons once the script is running.
 - Wipe data: Your unit will now reboot. It will likely show the battery charging screen, in this case just turn on the device. Upon the second reboot you will be asked to wipe your device. Use the volume buttons to navigate to the wipe option, use the power button to confirm this option. Your unlock is now complete.
 
+Locking bootloader:
+- To lock your bootloader again, you will need to ensure you flash the original firmware back to avoid a brick. This will wipe your data again. Once this is done, it'll be as if you never unlocked or modified the device at all.
+- Locking instructions: Enable USB Debugging, then use the following commands:
+- - adb reboot bootloader
+  - fastboot flashing lock
+  - Press the home/back button to confirm you want to relock
+  - fastboot reboot
+ 
+Stock firmware package:
+- RG 556: https://drive.google.com/file/d/1hYuUPBTHAghZXXVt5urnAhJP-_vofg3K/view?usp=sharing
+- RG Cube: https://drive.google.com/file/d/1DBl9ZwvyqUdjMmetA2ekYWKS1uUcmI0b/view?usp=sharing
 
 Credits:
 This bootloader unlocking process is based on the work from the following repository: TomKing062/CVE-2022-38694_unlock_bootloader. We are using a modified version of this exploit specifically tailored for our Anbernic devices.
