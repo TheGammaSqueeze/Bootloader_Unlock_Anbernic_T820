@@ -39,6 +39,6 @@ Stock firmware package:
 - RG Cube: https://drive.google.com/file/d/1DBl9ZwvyqUdjMmetA2ekYWKS1uUcmI0b/view?usp=sharing
 
 Credits:
-This bootloader unlocking process is based on the work from the following repository: TomKing062/CVE-2022-38694_unlock_bootloader. We are using a modified version of this exploit specifically tailored for our Anbernic devices.
+This bootloader unlocking process is based on the work from the following repository: [TomKing062/CVE-2022-38694_unlock_bootloader](https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader). We are using a modified version of this exploit specifically tailored for our Anbernic devices.
 
 By following this guide, you acknowledge that you understand the risks involved in unlocking your device's bootloader. Ensure you have backed up all important data before proceeding.
