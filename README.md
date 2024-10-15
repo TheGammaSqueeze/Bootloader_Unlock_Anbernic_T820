@@ -37,6 +37,7 @@ Locking bootloader:
 Stock firmware package:
 - RG 556: https://drive.google.com/file/d/1hYuUPBTHAghZXXVt5urnAhJP-_vofg3K/view?usp=sharing
 - RG Cube: https://drive.google.com/file/d/1DBl9ZwvyqUdjMmetA2ekYWKS1uUcmI0b/view?usp=sharing
+- RG 406v: https://drive.google.com/file/d/10ivdlP5CsVInWOa66RpjjCxLI38Lo1-2/view?usp=sharing
 
 Credits:
 This bootloader unlocking process is based on the work from the following repository: [TomKing062/CVE-2022-38694_unlock_bootloader](https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader). We are using a modified version of this exploit specifically tailored for our Anbernic devices.
