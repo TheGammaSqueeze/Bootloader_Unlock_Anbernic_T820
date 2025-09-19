@@ -40,9 +40,11 @@ Stock firmware package:
 - RG 406v: https://drive.google.com/file/d/10ivdlP5CsVInWOa66RpjjCxLI38Lo1-2/view?usp=sharing
 - RG 406h: https://drive.google.com/file/d/1UVdcEFBBagm4Dmj28w8tyiQuGFyVhXAk/view?usp=sharing
 - RG Slide: https://drive.google.com/file/d/1cyom-UX0uiVYRq8MovFcDb8nRYm_68nb/view?usp=sharing
+- RG 476H: https://drive.google.com/file/d/1IKqne9SkjVwHpeS-LMyrDfELTW7vb4N_/view?usp=sharing
 
 Credits:
 This bootloader unlocking process is based on the work from the following repository: [TomKing062/CVE-2022-38694_unlock_bootloader](https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader). We are using a modified version of this exploit specifically tailored for our Anbernic devices.
 
 By following this guide, you acknowledge that you understand the risks involved in unlocking your device's bootloader. Ensure you have backed up all important data before proceeding.
+
 
